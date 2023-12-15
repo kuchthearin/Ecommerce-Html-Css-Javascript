@@ -1,0 +1,869 @@
+[
+    {
+        "id": 1,
+        "name":" Bags For man",
+        "price": 200,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Shoes Man's",
+        "price": 250,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Belt for Man's",
+        "price": 290,
+        "image": "image/belt1.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Glasses For Man's",
+        "price": 200,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Gloves For Man's",
+        "price": 300,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Hat For Man's",
+        "price": 200,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Pants for Man's",
+        "price": 200,
+        "image": "image/pants1.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Scoks for Man's",
+        "price": 200,
+        "image": "image/scoks1.jpg"
+    },
+    {
+        "id": 9,
+        "name":" Wallet1 for man",
+        "price": 200,
+        "image": "image/wallet1.jpg"
+    },
+    {
+        "id": 10,
+        "name":" Watches for Man's",
+        "price": 200,
+        "image": "image/watches2.jpg"
+    },
+    {
+        "id": 11,
+        "name":" Chair",
+        "price": 200,
+        "image": "image/Chair1.png"
+    },
+    {
+        "id": 12,
+        "name":" Chair",
+        "price": 200,
+        "image": "image/Chair2.png"
+    },
+    {
+        "id": 13,
+        "name":" Chair",
+        "price": 200,
+        "image": "image/Chair3.png"
+    },
+    {
+        "id": 14,
+        "name":" Chair",
+        "price": 200,
+        "image": "image/Chair4.png"
+    },
+    {
+        "id": 15,
+        "name":" Chair",
+        "price": 200,
+        "image": "image/Chair5.png"
+    },
+    {
+        "id": 16,
+        "name":" Duvet",
+        "price": 200,
+        "image": "image/duvet.jpg"
+    },
+    {
+        "id": 17,
+        "name":" liquid",
+        "price": 200,
+        "image": "image/liquid.jpg"
+    },
+    {
+        "id": 18,
+        "name":" Toaster",
+        "price": 200,
+        "image": "image/toaster.jpg"
+    },
+    {
+        "id": 19,
+        "name":" Umbrella",
+        "price": 200,
+        "image": "image/umbrella.jpg"
+    },
+    {
+        "id": 20,
+        "name":" Vanity",
+        "price": 200,
+        "image": "image/vanity.jpg"
+    },
+    {
+        "id": 21,
+        "name":" Toaster",
+        "price": 30,
+        "image": "image/toaster.jpg"
+    },
+    {
+        "id": 22,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 23,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 24,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 25,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 26,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 27,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 28,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 29,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 30,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 31,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 32,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 33,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 34,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 35,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 36,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 37,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 38,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 39,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 40,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 41,
+        "name":" Shirt Man's",
+        "price": 30,
+        "image": "image/n10.jpg"
+    },
+    {
+        "id": 42,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 43,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 44,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 45,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 46,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 47,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 48,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 49,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 50,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 51,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 52,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 53,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 54,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 55,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 56,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 57,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 58,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 59,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 60,
+        "name":" Bags For man",
+        "price": 50,
+        "image": "image/bags1.jpg"
+    },
+    {
+        "id": 61,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 62,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 63,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 64,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 65,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 66,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 67,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 68,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 69,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 70,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 71,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 72,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 73,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 74,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 75,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 76,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 77,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 78,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 79,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 80,
+        "name":" Hat For Man's",
+        "price": 50,
+        "image": "image/hat5.jpg"
+    },
+    {
+        "id": 81,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 82,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 83,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 84,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 85,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 86,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 87,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 88,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 89,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 90,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 91,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 92,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 93,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 94,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 95,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 96,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 97,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 98,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 99,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 100,
+        "name":" Gloves For Man's",
+        "price": 20,
+        "image": "image/gloves2.jpg"
+    },
+    {
+        "id": 101,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 102,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 103,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 104,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 105,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 106,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 107,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 108,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 109,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 110,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 111,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 112,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 113,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 114,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 115,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 116,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 117,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 118,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 119,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 120,
+        "name":" Glasses For Man's",
+        "price": 80,
+        "image": "image/gasses1.jpg"
+    },
+    {
+        "id": 121,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 122,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 123,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 124,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 125,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 126,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 127,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 128,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 129,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 130,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 131,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 132,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 133,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 134,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 135,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 136,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 137,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 138,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 139,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 140,
+        "name":" Shoes Man's",
+        "price": 80,
+        "image": "image/shoes6.jpg"
+    },
+    {
+        "id": 141,
+        "name":" Chair",
+        "price": 100,
+        "image": "image/Chair1.png"
+    },
+    {
+        "id": 142,
+        "name":" Chair",
+        "price": 100,
+        "image": "image/Chair2.png"
+    },
+    {
+        "id": 143,
+        "name":" Chair",
+        "price": 100,
+        "image": "image/Chair3.png"
+    },
+    {
+        "id": 144,
+        "name":" Chair",
+        "price": 100,
+        "image": "image/Chair4.png"
+    }
+   
+    
+
+]
